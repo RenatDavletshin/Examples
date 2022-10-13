@@ -1,0 +1,15 @@
+/Users/rena/Examples/Example001_HelloWorld/bin/Debug/net6.0/Example001_HelloWorld
+/Users/rena/Examples/Example001_HelloWorld/bin/Debug/net6.0/Example001_HelloWorld.deps.json
+/Users/rena/Examples/Example001_HelloWorld/bin/Debug/net6.0/Example001_HelloWorld.runtimeconfig.json
+/Users/rena/Examples/Example001_HelloWorld/bin/Debug/net6.0/Example001_HelloWorld.dll
+/Users/rena/Examples/Example001_HelloWorld/bin/Debug/net6.0/Example001_HelloWorld.pdb
+/Users/rena/Examples/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.csproj.AssemblyReference.cache
+/Users/rena/Examples/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rena/Examples/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.AssemblyInfoInputs.cache
+/Users/rena/Examples/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.AssemblyInfo.cs
+/Users/rena/Examples/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/rena/Examples/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.dll
+/Users/rena/Examples/Example001_HelloWorld/obj/Debug/net6.0/refint/Example001_HelloWorld.dll
+/Users/rena/Examples/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.pdb
+/Users/rena/Examples/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.genruntimeconfig.cache
+/Users/rena/Examples/Example001_HelloWorld/obj/Debug/net6.0/ref/Example001_HelloWorld.dll
